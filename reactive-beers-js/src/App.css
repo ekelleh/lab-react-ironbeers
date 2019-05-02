@@ -41,4 +41,15 @@
 
 .beer-card {
   width: 20vw; 
+  margin: 5px; 
+  padding: 10px; 
+  background-color: rgb(189, 193, 241, 0.3);
+}
+
+.beer-card-detail {
+  margin: 20px; 
+  padding: 10px; 
+  background-color: rgb(189, 193, 241, 0.3);
+
+
 }

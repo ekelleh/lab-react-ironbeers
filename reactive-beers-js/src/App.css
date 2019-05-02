@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+.beer-container {
+
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: space-around; 
+}
+
+.beer-card {
+  width: 20vw; 
+}
